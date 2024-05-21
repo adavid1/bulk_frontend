@@ -1,4 +1,6 @@
 # Bulk Frontend
+![free-ionic-3628853-3029993(1)](https://github.com/adavid1/bulk_frontend/assets/36786512/a1fbe2a6-91b1-4c2c-87ed-600df1a4e3dc) ![angular](https://github.com/adavid1/bulk_frontend/assets/36786512/b664d719-eff4-49ee-be5f-935895ec60c5)
+
 
 Bulk Frontend is the client-side component of the Bulk game, developed using Ionic, a framework based on Angular. Bulk is a party game that functions similarly to Jackbox.TV games, where players interact with a common screen and use their phones to submit answers. The objective of the game is to provide the same answer as most of the other players to earn points. The more people who give the same answer, the more points you earn!
 
