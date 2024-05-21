@@ -46,6 +46,7 @@ Make sure you have the following installed on your system:
 
 ## Project Structure
 
+```
 bulk_frontend/
 ├── src/
 │   ├── app/
@@ -58,6 +59,7 @@ bulk_frontend/
 ├── angular.json
 ├── package.json
 └── README.md
+```
 
 ## Usage
 
