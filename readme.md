@@ -50,6 +50,23 @@ Make sure you have the following installed on your system:
 bulk_frontend/
 ├── src/
 │   ├── app/
+│   │   ├── category/
+│   │   ├── choice/
+│   │   ├── create-category/
+│   │   ├── create-choice/
+│   │   ├── create-question/
+│   │   ├── edit-category/
+│   │   ├── edit-choice/
+│   │   ├── edit-question/
+│   │   ├── game/
+│   │   ├── home/
+│   │   ├── host/
+│   │   ├── login/
+│   │   ├── pre-game/
+│   │   ├── question/
+│   │   ├── select-category/
+│   │   ├── shared/
+│   │   └── signup/
 │   ├── assets/
 │   ├── environments/
 │   └── theme/
